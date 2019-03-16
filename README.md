@@ -1,4 +1,25 @@
-# pandacraft1
+## Pandacraft test 1
+
+The goal of this test is to display 10 random images by using the [Flickity](https://flickity.metafizzy.co/) component
+and [Picsum](https://picsum.photos/) APIs
+
+#### Requirements
+
++ ES6 or higher
++ CSS Preprocessor (Example: Sass, Less, ...)
++ Mobile first / Responsive
++ You can use Vanilla JS components like Axios for ajax, ...
++ Do not use libraries like jQuery, Prototype, ...
+
+#### Ressources
+
+* [Flickity](https://flickity.metafizzy.co/)
+* [Picsum](https://picsum.photos/)
+* [Font Awesome](https://fontawesome.com/)
+* [Nunito Font](https://fonts.google.com/specimen/Nunito)
+
+#### Bonus
+* Feel free to add / do whatever it seems wise to you
 
 ## Project setup
 ```
